@@ -1,2 +1,2 @@
-1- Composer
-2- Autoloading Standards
+ 1- Composer
+ 2- Autoloading Standards
