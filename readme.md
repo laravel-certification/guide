@@ -1,5 +1,5 @@
 # [Laravel Certification](https://certification.laravel.com/) <br>
-> Mock para a certificação laravel
+> Guia para a certificação laravel
 
 ## [PHP](/Manual/PHP)
 Version 7.1+<br>
