@@ -1,2 +1,2 @@
  SECTION: Architecture
- > [Voltar](https://github.com/laravel-certification/guide/) 
+ > <sub>[Voltar](https://github.com/laravel-certification/guide/)</sub> 
