@@ -54,7 +54,7 @@ Creating Views<br>
 Passing Data to Views<br>
 View Composer<br>
 
-## [URL Generation](/Manual/URL Generation)
+## [URL Generation](/Manual/Url Generation)
 Named Routes<br>
 Controller Actions<br>
 Default Values<br>
