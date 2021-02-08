@@ -1,4 +1,5 @@
-# SECTION: PHP | <sup>[<-Voltar](https://github.com/laravel-certification/guide/)</sup> 
+# SECTION: PHP 
+## <sup>[<-Voltar](https://github.com/laravel-certification/guide/)</sup> 
 
 
  - Composer
