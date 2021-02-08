@@ -1,2 +1,1 @@
-# SECTION: Architecture
-> <sub>[Voltar](https://github.com/laravel-certification/guide/)</sub> 
+# SECTION: Architecture | <sup>[<-Voltar](https://github.com/laravel-certification/guide/)</sup>   
