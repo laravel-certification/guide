@@ -54,7 +54,7 @@ Creating Views<br>
 Passing Data to Views<br>
 View Composer<br>
 
-## [URL Generation](/Manual/Url Generation)
+## [URL Generation](/Manual/Url_Generation)
 Named Routes<br>
 Controller Actions<br>
 Default Values<br>
@@ -92,7 +92,7 @@ Encryption / Hashing<br>
 CSRF Protection<br>
 XSS Protection<br>
 
-## [Artisan Console](/Manual/Artisan Console)
+## [Artisan Console](/Manual/Artisan_Console)
 Generating Commands<br>
 Command I/O<br>
 Registering Commands<br>
@@ -123,12 +123,12 @@ Queued Listeners<br>
 Dispatching Events<br>
 Subscribing to Events<br>
 
-## [File Storage](/Manual/File Storage)
+## [File Storage](/Manual/File_Storage)
 Configuration / Drivers<br>
 Storing / Retrieving Files<br>
 Custom Filesystems<br>
 
-## [Helper Methods](/Manual/Helper Methods)
+## [Helper Methods](/Manual/Helper_Methods)
 Arrays / Objects<br>
 Paths<br>
 Strings<br>
@@ -154,7 +154,7 @@ SMS Notifications<br>
 Slack Notifications<br>
 Custom Channels<br>
 
-## [Package Development](/Manual/Package Development)
+## [Package Development](/Manual/Package_Development)
 Discovery<br>
 Service Providers<br>
 Resources<br>
@@ -169,7 +169,7 @@ Running Queue Workers<br>
 Supervisor<br>
 Handling Failed Jobs<br>
 
-## [Task Scheduling](/Manual/Task Scheduling)
+## [Task Scheduling](/Manual/Task_Scheduling)
 Scheduling Artisan Commands<br>
 Scheduling Queue Jobs<br>
 Scheduling Shell Commands<br>
@@ -183,7 +183,7 @@ Pagination<br>
 Migrations<br>
 Seeding<br>
 
-## [Eloquent ORM](/Manual/Eloquent ORM)
+## [Eloquent ORM](/Manual/Eloquent_ORM)
 Conventions<br>
 Relationships<br>
 Eloquent Collections<br>
