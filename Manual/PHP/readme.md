@@ -1,5 +1,5 @@
-# SECTION: PHP
-> <sub>[Voltar](https://github.com/laravel-certification/guide/)</sub> 
+# SECTION: PHP | <sub>[Voltar](https://github.com/laravel-certification/guide/)</sub> 
+
 
  - Composer
  
